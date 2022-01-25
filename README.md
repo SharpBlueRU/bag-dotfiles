@@ -1,7 +1,7 @@
 ## My dotfiles
 
-<img src="amostras/amostra.jpg" widht="100px" height="80px">
-<img src="amostras/amostraTwo.jpg" widht="100px" height="80px">
+<img src="/amostras/amostra.jpg" widht="100px" height="80px">
+<img src="/amostras/amostraTwo.jpg" widht="100px" height="80px">
 
 - Certas configurações só funcionarão no Void, mas a maioria funciona em diversas distros.
 - As depêndencias do slstatus/dmenu são as mesmas usadas pelo dwm.
