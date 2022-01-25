@@ -1,0 +1,10 @@
+ -> HELP of user
+
+	Usage XBPS:
+
+	xr  -> xbps-remove
+	xo  -> xbps-remove -Oo
+	xl  -> xbps-install 
+	xly -> xbps-install -y
+	xu  -> xbps-install -Suv
+	xq  -> xbps-query -Rs
